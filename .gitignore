@@ -26,3 +26,6 @@ Makefile*
 # QtCreator
 
 *.autosave
+/*.exe
+/img/*.psd
+/img
